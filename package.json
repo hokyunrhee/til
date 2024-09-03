@@ -1,0 +1,12 @@
+{
+  "name": "til",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "npx prettier ./**/* --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
