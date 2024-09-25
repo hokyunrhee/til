@@ -1,4 +1,4 @@
-# Configure Proxy In Vite
+# Configure proxy in Vite
 
 Vite에서는 개발 서버 설정을 이용하여 프록시를 구성할 수 있습니다. 프론트엔드와 백엔드를 독립적으로 개발할 때 종종 유용합니다.
 
